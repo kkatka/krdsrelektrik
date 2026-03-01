@@ -565,7 +565,7 @@ class _ElectricianHomePageState extends State<ElectricianHomePage> {
                 _buildContactInfo(
                   icon: '📍',
                   title: 'Poloha',
-                  value: 'Slovenská republika',
+                  value: 'Košice',
                   onTap: () {},
                 ),
                 const SizedBox(height: 48),
